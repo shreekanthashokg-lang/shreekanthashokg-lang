@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working<br>👯 I’m Eager to collaborate</br><br>🌱 I’m learning<br>💬 Ask me about<br>
+🔭 I’m currently working<br>👯 I’m Eager to collaborate</br><br>🌱 Training models <br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:

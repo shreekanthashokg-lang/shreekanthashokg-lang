@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’M CURRENTLY WORKING<br>👯 I’M EAGER TO collaborate</br><br>🌱 Training mlmodels  <br>💬 Ask me about<br>
+🔭 I’M CURRENTLY WORKING<br>👯 I’M EAGER TO C0LLABRATE</br><br>🌱 Training mlmodels  <br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:

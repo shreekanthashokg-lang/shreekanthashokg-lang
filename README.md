@@ -2,7 +2,7 @@
 🔭 I'm an AI Engineer focused on Machine Learning, Deep Learning, and NLP.
 I enjoy building practical AI systems from data to deployment.
 
-Areas of Interest
+AREA OF INTRESTS
 Machine Learning & Deep Learning
 Natural Language Processing
 Large Language Models (LLMs)

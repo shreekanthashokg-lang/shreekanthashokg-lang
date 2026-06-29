@@ -20,7 +20,7 @@ What I'm Working On
 LLM fine-tuning (LoRA)
 End-to-End AI projects
 AI Agents for real-world use cases
-<br>👯 I’M EAGER TO LEARN </br><br>🌱 Training mlmodels  <br>💬 Ask me about<br>
+<br>👯 I’M EAGER TO WORK </br><br>🌱 Training mlmodels  <br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:

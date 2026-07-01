@@ -4,7 +4,7 @@ I enjoy building practical AI systems from data to deployment.
 learning Agent Ai Workflow and RAG Agentic Ai
 
 AREA OF INTRESTS
-MACHINE LEARNING & DEEP Learning
+MACHINE LEARNING & DEEP LEARNING
 Natural Language Processing
 Large Language Models (LLMs)
 AI Agents & Applied AI

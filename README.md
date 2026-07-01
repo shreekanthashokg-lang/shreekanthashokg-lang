@@ -8,7 +8,7 @@ MACHINE LEARNING & DEEP LEARNING
 NATURAL LANGUAGE PROCESSING
 Large Language Models (LLMs)
 AI Agents & Applied AI
-Tech Stack
+TECH Stack
 Python
 PyTorch
 Transformers

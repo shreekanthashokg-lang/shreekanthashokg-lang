@@ -6,7 +6,7 @@ learning Agent Ai Workflow and RAG Agentic Ai
 AREA OF INTRESTS
 MACHINE LEARNING & DEEP LEARNING
 NATURAL LANGUAGE PROCESSING
-Large Language Models (LLMs)
+LARGE Language Models (LLMs)
 AI Agents & Applied AI
 TECH Stack
 Python

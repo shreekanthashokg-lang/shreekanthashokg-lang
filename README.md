@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'M AN AI ENGINEER focused on Machine Learning, Deep Learning, and NLP.
+🔭 I'M AN AI ENGINEER FOCUSED on Machine Learning, Deep Learning, and NLP.
 I enjoy building practical AI systems from data to deployment.
 learning Agent Ai Workflow and RAG Agentic Ai
 

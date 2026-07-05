@@ -14,7 +14,7 @@ PYTORCH
 Transformers
 FASTAPI
 MACHINE LEARNING
-Deep Learning
+DEEP LEARNING
 Streamlit
 Git & Linux
 What I'm Working On

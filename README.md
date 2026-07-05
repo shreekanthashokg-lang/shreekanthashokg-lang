@@ -13,7 +13,7 @@ PYTHON
 PYTORCH
 Transformers
 FASTAPI
-Machin Learning
+MACHINE LEARNING
 Deep Learning
 Streamlit
 Git & Linux

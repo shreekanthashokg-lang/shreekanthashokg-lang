@@ -16,7 +16,7 @@ FASTAPI
 MACHINE LEARNING
 DEEP LEARNING
 STREAMLIT
-Git & Linux
+GIT & LINUX
 What I'm Working On
 LLM fine-tuning (LoRA)
 End-to-End AI projects

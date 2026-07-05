@@ -15,7 +15,7 @@ Transformers
 FASTAPI
 MACHINE LEARNING
 DEEP LEARNING
-Streamlit
+STREAMLIT
 Git & Linux
 What I'm Working On
 LLM fine-tuning (LoRA)

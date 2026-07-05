@@ -12,7 +12,7 @@ TECH STACK
 PYTHON
 PYTORCH
 Transformers
-FastAPI
+FASTAPI
 Machin Learning
 Deep Learning
 Streamlit

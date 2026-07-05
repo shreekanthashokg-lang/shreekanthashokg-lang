@@ -17,7 +17,7 @@ MACHINE LEARNING
 DEEP LEARNING
 STREAMLIT
 GIT & LINUX
-WHAT I'm Working On
+WHAT I'M Working ON
 LLM fine-tuning (LoRA)
 End-to-End AI projects
 AI Agents for real-world use cases

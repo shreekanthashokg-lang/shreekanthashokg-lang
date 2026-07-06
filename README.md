@@ -18,7 +18,7 @@ DEEP LEARNING
 STREAMLIT
 GIT & LINUX
 WHAT I'M WORKING ON
-LLM fine-tuning (LoRA)
+LLM FINE-tuning (LoRA)
 End-to-End AI projects
 AI Agents for real-world use cases
 <br>👯 I’M EAGER TO WORK </br><br>🌱 Training mlmodels  <br>💬 Ask ME about<br>

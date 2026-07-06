@@ -19,7 +19,7 @@ STREAMLIT
 GIT & LINUX
 WHAT I'M WORKING ON
 LLM FINE-TUNING (LORA)
-END-to-End AI projects
+END-TO-End AI projects
 AI Agents for real-world use cases
 <br>👯 I’M EAGER TO WORK </br><br>🌱 Training mlmodels  <br>💬 Ask ME about<br>
 

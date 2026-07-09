@@ -20,7 +20,7 @@ GIT & LINUX
 WHAT I'M WORKING ON
 LLM FINE-TUNING (LORA)
 END-TO-END AI PROJECTS
-AI AGENTS FOR Real-World Use Cases
+AI AGENTS FOR REAL-World Use Cases
 <br>👯 I’M EAGER TO WORK </br><br>🌱 Training mlmodels  <br>💬 Ask ME about<br>
 
 

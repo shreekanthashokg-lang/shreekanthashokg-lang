@@ -24,7 +24,7 @@ AI AGENTS FOR REAL-WORLD USE Cases
 <br>👯 I’M EAGER TO WORK </br><br>🌱 Training mlmodels  <br>💬 Ask ME about<br>
 
 
-## 🌐 Socials:
+## 🌐 SOCIALS:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr_shreekanth_guttedar?igsh=MTF4cXM2YzB1ZGhubQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreekanth-a-guttedar-81562b384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreekanthashokg@gmail.com) 
 
 # 💻 Tech Stack:

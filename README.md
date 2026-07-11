@@ -37,7 +37,7 @@ AI AGENTS FOR REAL-WORLD USE Cases
 ## 🏆 GITHUB TROPHIES
 ![](https://github-profile-trophy.vercel.app/?username=shreekanthashokg-lang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ RANDOM Dev Quote
+### ✍️ RANDOM DEV Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

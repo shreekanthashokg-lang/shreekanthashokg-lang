@@ -1,0 +1,72 @@
+<svg width="470" height="195" viewBox="0 0 470 195" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub stats for shreekanthashokg-lang">
+  <defs>
+    <linearGradient id="statsBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1f"/>
+      <stop offset="100%" stop-color="#100a24"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="statsBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.7"/>
+    </linearGradient>
+    <clipPath id="statsClip"><rect width="470" height="195" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#statsClip)">
+    <rect width="470" height="195" fill="url(#statsBg)"/>
+    <rect x="1" y="1" width="468" height="193" rx="17" fill="none" stroke="url(#statsBorder)" stroke-width="1.4"/>
+
+    <text x="24" y="32" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="800" fill="#e2e8f0">Shreekanth's GitHub Stats</text>
+    <text x="24" y="50" font-family="Consolas, monospace" font-size="11" fill="#64748b">@shreekanthashokg-lang</text>
+
+    <!-- stat rows -->
+    <g font-family="'Segoe UI', sans-serif" font-size="13" fill="#cbd5e1">
+      <g transform="translate(24,76)">
+        <text>📦 Public Repos</text>
+        <text x="230" text-anchor="end" font-weight="700" fill="#67e8f9">9</text>
+        <rect x="0" y="8" width="270" height="6" rx="3" fill="#1e293b"/>
+        <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#ringGrad)">
+          <animate attributeName="width" from="0" to="230" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        </rect>
+      </g>
+      <g transform="translate(24,104)">
+        <text>⭐ Stars Earned</text>
+        <text x="230" text-anchor="end" font-weight="700" fill="#a855f7">5</text>
+        <rect x="0" y="8" width="270" height="6" rx="3" fill="#1e293b"/>
+        <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#ringGrad)">
+          <animate attributeName="width" from="0" to="130" dur="1.2s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        </rect>
+      </g>
+      <g transform="translate(24,132)">
+        <text>👥 Followers</text>
+        <text x="230" text-anchor="end" font-weight="700" fill="#67e8f9">1.1k</text>
+        <rect x="0" y="8" width="270" height="6" rx="3" fill="#1e293b"/>
+        <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#ringGrad)">
+          <animate attributeName="width" from="0" to="250" dur="1.2s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        </rect>
+      </g>
+      <g transform="translate(24,160)">
+        <text>🏆 Achievement</text>
+        <text x="230" text-anchor="end" font-weight="700" fill="#a855f7">Quickdraw</text>
+        <rect x="0" y="8" width="270" height="6" rx="3" fill="#1e293b"/>
+        <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#ringGrad)">
+          <animate attributeName="width" from="0" to="180" dur="1.2s" begin="0.65s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        </rect>
+      </g>
+    </g>
+
+    <!-- rank ring -->
+    <g transform="translate(400,105)">
+      <circle r="58" fill="none" stroke="#1e293b" stroke-width="9"/>
+      <circle r="58" fill="none" stroke="url(#ringGrad)" stroke-width="9" stroke-linecap="round"
+        stroke-dasharray="364.4" stroke-dashoffset="364.4" transform="rotate(-90)">
+        <animate attributeName="stroke-dashoffset" from="364.4" to="79" dur="1.6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+      </circle>
+      <text x="0" y="-2" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="22" font-weight="800" fill="#f1f5f9">A+</text>
+      <text x="0" y="18" text-anchor="middle" font-family="Consolas, monospace" font-size="10" fill="#64748b">RANK</text>
+    </g>
+  </g>
+</svg>

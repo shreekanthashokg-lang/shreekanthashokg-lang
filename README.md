@@ -166,15 +166,6 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-
-
-</td>
-<td width="50%" valign="top">
-
 ### 🏦 [loan-approval-predictor](https://github.com/shreekanthashokg-lang/loan-approval-predictor)
 End-to-end supervised ML pipeline benchmarking **KNN**, **Logistic Regression**, and **Naive Bayes** for binary loan-approval classification, with full EDA and feature engineering.
 <br/>⭐ 9 stars

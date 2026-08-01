@@ -21,14 +21,13 @@
 
 ### 🧬 About Me
 
-I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, currently pursuing my **MCA in AI/ML & Data Science** at **S-VYASA Deemed to be University**. I hold a **BSc in Biology** (CGPA 8.2, Gulbarga University) — a background I actively use to bring biological interpretability to machine learning systems.
+I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, currently pursuing my **MCA in AI/ML & Data Science** at **S-VYASA Deemed to be University**.
 
-- 🔭 Currently building **YogaVedic AI** — a real-time posture detection system fusing MediaPipe pose estimation, rPPG biometric monitoring, a Dosha Intelligence Engine, and multilingual voice coaching
-- 🏆 **1st Place, eMudhra Hackathon 2026** — ₹1,00,000 prize against 104 competing teams, 1 of just 19 shortlisted (Team Prakriti)
 - 🌍 **Campus Ambassador, E-Cell IIT Bombay** — operating fully remote for India's #1-ranked entrepreneurship cell
 - 🌱 Deepening my expertise in LLM fine-tuning (LoRA), RAG pipelines, and agentic AI workflows
+- 🏆 **1st Place, eMudhra Hackathon 2026** — ₹1,00,000 prize against 104 competing teams, 1 of just 19 shortlisted (Team Prakriti)
 - 🧠 Fascinated by the intersection of **biology and AI/ML** — explainable models that reason the way living systems do
-- 💬 Ask me about ML pipelines, computer vision, or turning a research idea into a deployable system
+- 💬 Ask me about ML Pipelines, computer vision, or turning a research idea into a deployable system
 - 📫 Reach me at **shreekanthashokg@gmail.com**
 
 </td>
@@ -105,9 +104,10 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 
 **MCA — AI/ML & Data Science Specialization**
 <br/>S-VYASA Deemed to be University, Bengaluru
-<br/><sub>2nd Semester · 2027 Batch</sub>
+<br/><sub>CGPA: 10 / 10</sub>
+<br/><sub>3RD Semester · 2027 Batch</sub>
 
-**BSc — Biology**
+**BSc**
 <br/>Gulbarga University
 <br/><sub>CGPA: 8.2 / 10</sub>
 
@@ -119,9 +119,9 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 **Certifications**
 - 🏅 Cambridge CIQ — Python for DS & ML, 100/100
 - 🏅 Infosys Springboard — Data Science with Python
-- 🏅 HP Foundation — Data Science & Analytics
 - 🏅 Deloitte — Data Analytics Simulation (Forage)
 - 🏅 ICAC — ML Training, Codec Technologies
+- 🏅 HP Foundation — Data Science & Analytics
 
 </td>
 </tr>
@@ -135,13 +135,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 <tr>
 <td width="50%" valign="top">
 
-**🏆 1st Place Winner — eMudhra Hackathon 2026**
-<br/><sub>Team Prakriti · eMudhra Campus, Bengaluru · July 2026</sub>
-<br/>Won ₹1,00,000 first prize against 104 competing teams — one of 19 shortlisted from the preliminary round, evaluated by eMudhra's engineering leadership.
 
-**🌍 Campus Ambassador — E-Cell, IIT Bombay**
-<br/><sub>Fully Remote · June 2026 – Present</sub>
-<br/>Representing India's #1-ranked entrepreneurship cell, coordinating programs independently in a fully remote capacity.
 
 </td>
 <td width="50%" valign="top">
@@ -153,6 +147,16 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 **🤖 Machine Learning Intern — Codec Technologies**
 <br/><sub>ICAC Recognized · Feb 2026</sub>
 <br/>Implemented ML algorithms for complex technical challenges; awarded a Letter of Recommendation for technical excellence.
+
+**🌍 Campus Ambassador — E-Cell, IIT Bombay**
+<br/><sub>Fully Remote · June 2026 – Present</sub>
+<br/>Representing India's #1-ranked entrepreneurship cell, coordinating programs independently in a fully remote capacity.
+
+
+**🏆 1st Place Winner — eMudhra Hackathon 2026**
+<br/><sub>Team Prakriti · eMudhra Campus, Bengaluru · July 2026</sub>
+<br/>Won ₹1,00,000 first prize against 104 competing teams — one of 19 shortlisted from the preliminary round, evaluated by eMudhra's engineering leadership.
+
 
 </td>
 </tr>
@@ -166,10 +170,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 <tr>
 <td width="50%" valign="top">
 
-### 🧘 [YogaVedic AI](https://github.com/shreekanthashokg-lang)
-Real-time yoga posture detection fusing **MediaPipe** pose landmarks, **rPPG** biometric monitoring, a proprietary **Dosha Intelligence Engine**, and multilingual voice coaching.
-<br/>🏆 **1st Prize — eMudhra Hackathon 2026** · Submitted to MSME Idea Hackathon 6.0
-<br/>`Python` `MediaPipe` `Computer Vision` `Biometrics`
+
 
 </td>
 <td width="50%" valign="top">

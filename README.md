@@ -1,46 +1,313 @@
-# 💫 ABOUT ME:
-🔭 I'M AN AI ENGINEER FOCUSED ON MACHINE LEARNING, DEEP LEARNING, AND NLP.
-I ENJOY BUILDING PRACTICAL AI SYSTEMS FROM DATA TO DEPLOYMENT 
-LEARNING AGENT AI WORKFLOW AND RAG AGENTIC AI
+<div align="center">
 
-AREA OF INTRESTS
-MACHINE LEARNING & DEEP LEARNING
-NATURAL LANGUAGE PROCESSING
-LARGE LANGUAGE MODELS (LLMs)
-AI AGENTS & APPLIED AI
-TECH STACK
-PYTHON
-PYTORCH
-TRANSFORMER
-FASTAPI
-MACHINE LEARNING
-DEEP LEARNING
-STREAMLIT
-GIT & LINUX
-WHAT I'M WORKING ON
-LLM FINE-TUNING (LORA)
-END-TO-END AI PROJECTS
-AI AGENTS FOR REAL-WORLD USE CASES
-<br>👯 I’M EAGER TO WORK </br><br>🌱 TRAINING ML MODELS  <br>💬 ASK ME ABOUT<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
+  <img src="./banner.svg?v=1" alt="Shreekanth A Guttedar — AI/ML Engineer & Data Scientist" width="100%"/>
+</picture>
 
+</div>
 
-## 🌐 SOCIALS:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr_shreekanth_guttedar?igsh=MTF4cXM2YzB1ZGhubQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreekanth-a-guttedar-81562b384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreekanthashokg@gmail.com) 
+<br/>
 
-# 💻 TECH STACK:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GITHUB STATS:
-![](https://github-readme-stats.shion.dev/api?username=shreekanthashokg-lang&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=shreekanthashokg-lang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreekanthashokg-lang&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<table align="center" border="0">
+<tr>
+<td width="30%" align="center" valign="middle">
 
-## 🏆 GITHUB TROPHIES
-![](https://github-profile-trophy.vercel.app/?username=shreekanthashokg-lang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="./lanyard.svg?v=1" alt="Shreekanth's ID badge" width="260"/>
 
-### ✍️ RANDOM DEV QUOTE
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</td>
+<td width="70%" valign="middle">
 
----
-[![](https://komarev.com/ghpvc/?username=shreekanthashokg-lang&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🧬 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, currently pursuing my **MCA in AI/ML & Data Science** at **S-VYASA Deemed to be University**. I hold a **BSc in Biology** (CGPA 8.2, Gulbarga University) — a background I actively use to bring biological interpretability to machine learning systems.
+
+- 🔭 Currently building **YogaVedic AI** — a real-time posture detection system fusing MediaPipe pose estimation, rPPG biometric monitoring, a Dosha Intelligence Engine, and multilingual voice coaching
+- 🏆 **1st Place, eMudhra Hackathon 2026** — ₹1,00,000 prize against 104 competing teams, 1 of just 19 shortlisted (Team Prakriti)
+- 🌍 **Campus Ambassador, E-Cell IIT Bombay** — operating fully remote for India's #1-ranked entrepreneurship cell
+- 🌱 Deepening my expertise in LLM fine-tuning (LoRA), RAG pipelines, and agentic AI workflows
+- 🧠 Fascinated by the intersection of **biology and AI/ML** — explainable models that reason the way living systems do
+- 💬 Ask me about ML pipelines, computer vision, or turning a research idea into a deployable system
+- 📫 Reach me at **shreekanthashokg@gmail.com**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧭 Tech Stack
+
+<div align="center">
+
+**Languages & Core**
+<br/>
+![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=3B82F6)
+![R](https://img.shields.io/badge/R-05122A?style=for-the-badge&logo=r&logoColor=22D3EE)
+![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=A855F7)
+![SQL](https://img.shields.io/badge/SQL-05122A?style=for-the-badge&logo=mysql&logoColor=3B82F6)
+![HTML5](https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=22D3EE)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=A855F7)
+
+**AI / ML / Deep Learning**
+<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=for-the-badge&logo=pytorch&logoColor=3B82F6)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=for-the-badge&logo=tensorflow&logoColor=22D3EE)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-05122A?style=for-the-badge&logo=scikitlearn&logoColor=A855F7)
+![Keras](https://img.shields.io/badge/Keras-05122A?style=for-the-badge&logo=keras&logoColor=3B82F6)
+![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=for-the-badge&logo=opencv&logoColor=22D3EE)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-05122A?style=for-the-badge&logo=google&logoColor=A855F7)
+![Pandas](https://img.shields.io/badge/Pandas-05122A?style=for-the-badge&logo=pandas&logoColor=3B82F6)
+![NumPy](https://img.shields.io/badge/NumPy-05122A?style=for-the-badge&logo=numpy&logoColor=22D3EE)
+![MLflow](https://img.shields.io/badge/MLflow-05122A?style=for-the-badge&logo=mlflow&logoColor=A855F7)
+
+**Backend, Web & Cloud**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=for-the-badge&logo=fastapi&logoColor=3B82F6)
+![Flask](https://img.shields.io/badge/Flask-05122A?style=for-the-badge&logo=flask&logoColor=22D3EE)
+![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=A855F7)
+![Streamlit](https://img.shields.io/badge/Streamlit-05122A?style=for-the-badge&logo=streamlit&logoColor=3B82F6)
+![AWS](https://img.shields.io/badge/AWS-05122A?style=for-the-badge&logo=amazonaws&logoColor=22D3EE)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-05122A?style=for-the-badge&logo=googlecloud&logoColor=A855F7)
+![Vercel](https://img.shields.io/badge/Vercel-05122A?style=for-the-badge&logo=vercel&logoColor=3B82F6)
+
+**Generative AI & LLM Tooling**
+<br/>
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-05122A?style=for-the-badge&logo=huggingface&logoColor=3B82F6)
+![LangChain](https://img.shields.io/badge/LangChain-05122A?style=for-the-badge&logo=langchain&logoColor=22D3EE)
+![XGBoost](https://img.shields.io/badge/XGBoost-05122A?style=for-the-badge&logo=xgboost&logoColor=A855F7)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-05122A?style=for-the-badge&logo=openai&logoColor=3B82F6)
+
+**Data, Tools & Testing**
+<br/>
+![Power BI](https://img.shields.io/badge/Power_BI-05122A?style=for-the-badge&logo=powerbi&logoColor=22D3EE)
+![Tableau](https://img.shields.io/badge/Tableau-05122A?style=for-the-badge&logo=tableau&logoColor=A855F7)
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=3B82F6)
+![SQLite](https://img.shields.io/badge/SQLite-05122A?style=for-the-badge&logo=sqlite&logoColor=22D3EE)
+![Docker](https://img.shields.io/badge/Docker-05122A?style=for-the-badge&logo=docker&logoColor=A855F7)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-05122A?style=for-the-badge&logo=kubernetes&logoColor=3B82F6)
+![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=22D3EE)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-05122A?style=for-the-badge&logo=githubactions&logoColor=A855F7)
+![Selenium](https://img.shields.io/badge/Selenium-05122A?style=for-the-badge&logo=selenium&logoColor=3B82F6)
+![Cypress](https://img.shields.io/badge/Cypress-05122A?style=for-the-badge&logo=cypress&logoColor=22D3EE)
+![Figma](https://img.shields.io/badge/Figma-05122A?style=for-the-badge&logo=figma&logoColor=A855F7)
+
+</div>
+
+<br/>
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="60%">
+
+**MCA — AI/ML & Data Science Specialization**
+<br/>S-VYASA Deemed to be University, Bengaluru
+<br/><sub>2nd Semester · 2027 Batch</sub>
+
+**BSc — Biology**
+<br/>Gulbarga University
+<br/><sub>CGPA: 8.2 / 10</sub>
+
+<sub>🎓 Selected for CUET PG 2026 — M.Sc. Data Science & Bio-AI, Digital University Kerala</sub>
+
+</td>
+<td width="40%">
+
+**Certifications**
+- 🏅 Cambridge CIQ — Python for DS & ML, 100/100
+- 🏅 Infosys Springboard — Data Science with Python
+- 🏅 HP Foundation — Data Science & Analytics
+- 🏅 Deloitte — Data Analytics Simulation (Forage)
+- 🏅 ICAC — ML Training, Codec Technologies
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏆 1st Place Winner — eMudhra Hackathon 2026**
+<br/><sub>Team Prakriti · eMudhra Campus, Bengaluru · July 2026</sub>
+<br/>Won ₹1,00,000 first prize against 104 competing teams — one of 19 shortlisted from the preliminary round, evaluated by eMudhra's engineering leadership.
+
+**🌍 Campus Ambassador — E-Cell, IIT Bombay**
+<br/><sub>Fully Remote · June 2026 – Present</sub>
+<br/>Representing India's #1-ranked entrepreneurship cell, coordinating programs independently in a fully remote capacity.
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Data Science Intern — CodSoft**
+<br/><sub>ISO 9001:2015 Certified · Feb–Mar 2026</sub>
+<br/>Applied Python-based EDA, feature engineering, classification, and regression to real-world datasets.
+
+**🤖 Machine Learning Intern — Codec Technologies**
+<br/><sub>ICAC Recognized · Feb 2026</sub>
+<br/>Implemented ML algorithms for complex technical challenges; awarded a Letter of Recommendation for technical excellence.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧘 [YogaVedic AI](https://github.com/shreekanthashokg-lang)
+Real-time yoga posture detection fusing **MediaPipe** pose landmarks, **rPPG** biometric monitoring, a proprietary **Dosha Intelligence Engine**, and multilingual voice coaching.
+<br/>🏆 **1st Prize — eMudhra Hackathon 2026** · Submitted to MSME Idea Hackathon 6.0
+<br/>`Python` `MediaPipe` `Computer Vision` `Biometrics`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 [loan-approval-predictor](https://github.com/shreekanthashokg-lang/loan-approval-predictor)
+End-to-end supervised ML pipeline benchmarking **KNN**, **Logistic Regression**, and **Naive Bayes** for binary loan-approval classification, with full EDA and feature engineering.
+<br/>⭐ 9 stars
+<br/>`Python` `scikit-learn` `Classification`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [smartcart-customer-segmentation-analysis](https://github.com/shreekanthashokg-lang/smartcart-customer-segmentation-analysis)
+Customer segmentation analysis for an e-commerce platform, clustering shopper behavior to drive targeted marketing strategy.
+<br/>⭐ 6 stars
+<br/>`Python` `Clustering` `EDA`
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 [Price-Predictor-ML-Pipeline](https://github.com/shreekanthashokg-lang/Price-Predictor-ML-Pipeline)
+AI/ML pipeline for price prediction using **Random Forest**, with feature engineering, cross-validation, and a deployable exported model achieving **R² = 0.917**.
+<br/>⭐ 4 stars
+<br/>`Python` `Random Forest` `MLOps`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ [AI-Computer-Vision-Projects](https://github.com/shreekanthashokg-lang/AI-Computer-Vision-Projects)
+A computer vision journey with **OpenCV** and **YOLO**, including work from a 5-day offline workshop by Innomatics Research Labs and a real-time face-recognition attendance system.
+<br/>`Python` `OpenCV` `YOLO`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Data-Science-Internship-Projects (CodSoft)](https://github.com/shreekanthashokg-lang/Data-Science-Internship-Projects-CodSoft-)
+Five data science projects completed during a virtual CodSoft internship, spanning classification, regression, and exploratory analysis.
+<br/>⭐ 4 stars
+<br/>`Python` `Data Science`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🛠️ Live AI/ML Apps — Built & Deployed End-to-End
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [ATS Analyzer](https://resume-ats-react.vercel.app)
+End-to-end NLP resume-intelligence platform using **NER + Hugging Face Transformers** to semantically compare resumes against job descriptions — keyword extraction, ATS scoring, and gap analysis, hitting a **92/100 ATS benchmark**.
+<br/>`Python` `NLP` `Hugging Face` `React`
+
+</td>
+<td width="50%" valign="top">
+
+### 📸 [SnapClass](https://snapclass-beta.vercel.app)
+Real-time attendance system fusing **Computer Vision + Voice Biometrics** to verify student identity and eliminate proxy attendance by **90%+**, with automated reporting and a live monitoring dashboard.
+<br/>`Python` `OpenCV` `CNN` `Voice Biometrics` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏋️ [AI Gym Coach](https://ai-realtime-gym-coach.netlify.app)
+Real-time fitness form correction using **pose estimation** to detect joint angles and body posture, giving millisecond-level feedback while processing 30+ frames per second.
+<br/>`Python` `OpenCV` `TensorFlow` `Deep Learning`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [NeuralArt](https://nst-e80l.onrender.com)
+AI art generator built on **Neural Style Transfer**, fine-tuning **VGG19** via transfer learning to turn any photo into a stylized masterpiece — deployed as a live web app.
+<br/>`Python` `TensorFlow` `CNN` `Transfer Learning`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats & Graphs
+
+<div align="center">
+
+<img src="./stats.svg?v=1" alt="GitHub Stats" width="48%"/>
+<img src="./langs.svg?v=1" alt="Top Languages" width="48%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=shreekanthashokg-lang&theme=radical&hide_border=true&background=0A0F1F&ring=22D3EE&fire=A855F7&currStreakLabel=67E8F9&sideLabels=93C5FD&dates=64748B" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreekanthashokg-lang&bg_color=0A0F1F&color=67E8F9&line=3B82F6&point=A855F7&area=true&area_color=3B82F6&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="95%"/>
+
+<br/><br/>
+
+<img src="./trophies.svg?v=1" alt="Trophies" width="95%"/>
+
+<br/><br/>
+
+### 🐍 The snake that eats my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreekanthashokg-lang/shreekanthashokg-lang/output/github-snake-cyan.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreekanthashokg-lang/shreekanthashokg-lang/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/shreekanthashokg-lang/shreekanthashokg-lang/output/github-snake-cyan.svg" alt="Contribution snake"/>
+</picture>
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:shreekanthashokg@gmail.com"><img src="https://img.shields.io/badge/Email-05122A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/shreekanth-a-guttedar-81562b384"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn"/></a>
+<a href="https://github.com/shreekanthashokg-lang"><img src="https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub"/></a>
+<a href="https://www.youtube.com/@AIMLwithDS"><img src="https://img.shields.io/badge/YouTube-05122A?style=for-the-badge&logo=youtube&logoColor=A855F7" alt="YouTube"/></a>
+<a href="https://www.instagram.com/mr_shreekanth_guttedar"><img src="https://img.shields.io/badge/Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=22D3EE" alt="Instagram"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shreekanthashokg-lang&color=0A0F1F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*⚡ Engineering intelligent systems, one experiment at a time.*
+
+</div>

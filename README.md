@@ -209,16 +209,7 @@ Five data science projects completed during a virtual CodSoft internship, spanni
 ### 🛠️ Live AI/ML Apps — Built & Deployed End-to-End
 
 
-<td width="50%" valign="top">
 
-### 📸 [SnapClass](https://snapclass-beta.vercel.app)
-Real-time attendance system fusing **Computer Vision + Voice Biometrics** to verify student identity and eliminate proxy attendance by **90%+**, with automated reporting and a live monitoring dashboard.
-<br/>`Python` `OpenCV` `CNN` `Voice Biometrics` `React`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🏋️ [AI Gym Coach](https://ai-realtime-gym-coach.netlify.app)
 Real-time fitness form correction using **pose estimation** to detect joint angles and body posture, giving millisecond-level feedback while processing 30+ frames per second.

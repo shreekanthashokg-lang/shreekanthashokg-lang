@@ -208,15 +208,7 @@ Five data science projects completed during a virtual CodSoft internship, spanni
 
 ### 🛠️ Live AI/ML Apps — Built & Deployed End-to-End
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 📄 [ATS Analyzer](https://resume-ats-react.vercel.app)
-End-to-end NLP resume-intelligence platform using **NER + Hugging Face Transformers** to semantically compare resumes against job descriptions — keyword extraction, ATS scoring, and gap analysis, hitting a **92/100 ATS benchmark**.
-<br/>`Python` `NLP` `Hugging Face` `React`
-
-</td>
 <td width="50%" valign="top">
 
 ### 📸 [SnapClass](https://snapclass-beta.vercel.app)

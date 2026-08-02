@@ -131,13 +131,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-
-
-</td>
 <td width="50%" valign="top">
 
 **📊 Data Science Intern — CodSoft**

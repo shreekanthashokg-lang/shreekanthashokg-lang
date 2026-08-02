@@ -211,16 +211,6 @@ Five data science projects completed during a virtual CodSoft internship, spanni
 
 
 
-### 🎨 [NeuralArt](https://nst-e80l.onrender.com)
-AI art generator built on **Neural Style Transfer**, fine-tuning **VGG19** via transfer learning to turn any photo into a stylized masterpiece — deployed as a live web app.
-<br/>`Python` `TensorFlow` `CNN` `Transfer Learning`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 📊 GitHub Stats & Graphs
 
 <div align="center">

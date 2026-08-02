@@ -211,13 +211,6 @@ Five data science projects completed during a virtual CodSoft internship, spanni
 
 
 
-### 🏋️ [AI Gym Coach](https://ai-realtime-gym-coach.netlify.app)
-Real-time fitness form correction using **pose estimation** to detect joint angles and body posture, giving millisecond-level feedback while processing 30+ frames per second.
-<br/>`Python` `OpenCV` `TensorFlow` `Deep Learning`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎨 [NeuralArt](https://nst-e80l.onrender.com)
 AI art generator built on **Neural Style Transfer**, fine-tuning **VGG19** via transfer learning to turn any photo into a stylized masterpiece — deployed as a live web app.
 <br/>`Python` `TensorFlow` `CNN` `Transfer Learning`

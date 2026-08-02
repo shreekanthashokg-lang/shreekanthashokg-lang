@@ -206,7 +206,7 @@ Five data science projects completed during a virtual CodSoft internship, spanni
 
 <br/>
 
-### 🛠️ BUILDING Live AI/ML PROJECTS / Apps — & Deploy End-to-End
+### 🛠️ BUILDING Live AI/ML PROJECTS / Apps — & Deployment is Under Construction
 
 
 

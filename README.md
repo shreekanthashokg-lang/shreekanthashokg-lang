@@ -96,7 +96,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 
 <br/>
 
-## 🎓 Education
+## 🎓 EDUCATION
 
 <table>
 <tr>

@@ -78,7 +78,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 ![XGBoost](https://img.shields.io/badge/XGBoost-05122A?style=for-the-badge&logo=xgboost&logoColor=A855F7)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-05122A?style=for-the-badge&logo=openai&logoColor=3B82F6)
 
-**Data, Tools & Testing**
+**DATA, TOOLS & TESTING**
 <br/>
 ![Power BI](https://img.shields.io/badge/Power_BI-05122A?style=for-the-badge&logo=powerbi&logoColor=22D3EE)
 ![Tableau](https://img.shields.io/badge/Tableau-05122A?style=for-the-badge&logo=tableau&logoColor=A855F7)

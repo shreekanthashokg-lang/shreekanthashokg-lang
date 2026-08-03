@@ -24,7 +24,7 @@
 I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, currently pursuing my **MCA in AI/ML & Data Science** at **S-VYASA Deemed to be University**.
 
 - 🌍 **Campus Ambassador, E-Cell IIT Bombay** — Operating Fully Remote for India's #1-ranked entrepreneurship cell
-- 🌱 Deepening my expertise in LLM fine-tuning (LoRA), RAG pipelines, and agentic AI workflows
+- 🌱 Deepening my expertise in LLM fine-tuning (LoRA), RAG pipelines, and Agentic AI Workflows
 - 🏆 **1st Place, eMudhra Hackathon 2026** — ₹1,00,000 prize against 104 competing teams, 1 of just 19 shortlisted (Team Prakriti)
 - 🧠 Fascinated by the intersection of ** AI/ML AND DATA SCIENCE** — explainable models that reason the way living systems do
 - 💬 Ask me about ML Pipelines, computer vision, or turning a research idea into a deployable system

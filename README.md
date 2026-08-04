@@ -28,7 +28,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 - 🏆 **1st Place, eMudhra Hackathon 2026** — ₹1,00,000 prize against 104 competing teams, 1 of just 19 shortlisted (Team Prakriti)
 - 🧠 Fascinated BY THE intersection of ** AI/ML AND DATA SCIENCE** — explainable models that reason the way living systems do
 - 💬 ASK ME ABOUT ML PIPELINES, COMPUTER VISION, or TURNING A RESEARCH IDEA INTO a DEPLOYABLE SYSTEM
-- 📫 Reach me at **shreekanthashokg@gmail.com**
+- 📫 REACH  ME AT **shreekanthashokg@gmail.com**
 
 </td>
 </tr>

@@ -49,7 +49,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 ![HTML5](https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=22D3EE)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=A855F7)
 
-**AI / ML / Deep Learning**
+**AI / ML / DEEP LEARNING**
 <br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=for-the-badge&logo=pytorch&logoColor=3B82F6)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=for-the-badge&logo=tensorflow&logoColor=22D3EE)

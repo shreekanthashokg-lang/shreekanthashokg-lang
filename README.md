@@ -129,7 +129,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 
 <br/>
 
-## 💼 Experience
+## 💼 EXPERIENCE
 
 
 <td width="50%" valign="top">

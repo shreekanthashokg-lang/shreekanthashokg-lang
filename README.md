@@ -19,7 +19,7 @@
 </td>
 <td width="70%" valign="middle">
 
-### 🧬 About Me
+### 🧬 ABOUT ME
 
 I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, currently pursuing my **MCA in AI/ML & Data Science** at **S-VYASA Deemed to be University**.
 

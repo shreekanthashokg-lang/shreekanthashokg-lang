@@ -244,7 +244,7 @@ Five data science projects completed during a virtual CodSoft internship, spanni
 
 <br/>
 
-## 📫 Let's Connect
+## 📫 LET'S  CONNECT
 
 <div align="center">
 

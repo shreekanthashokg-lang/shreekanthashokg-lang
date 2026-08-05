@@ -260,6 +260,6 @@ Five data science projects completed during a virtual CodSoft internship, spanni
 
 <br/><br/>
 
-*⚡ ENGINEERING INTELLIGENT SYSTEMS, ONE EXPERIMENT at a time.*
+*⚡ ENGINEERING INTELLIGENT SYSTEMS, ONE EXPERIMENT AT A time.*
 
 </div>

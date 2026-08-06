@@ -71,7 +71,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-05122A?style=for-the-badge&logo=googlecloud&logoColor=A855F7)
 ![Vercel](https://img.shields.io/badge/Vercel-05122A?style=for-the-badge&logo=vercel&logoColor=3B82F6)
 
-**Generative AI & LLM Tooling**
+**GENERATIVE AI & LLM TOLLING**
 <br/>
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-05122A?style=for-the-badge&logo=huggingface&logoColor=3B82F6)
 ![LangChain](https://img.shields.io/badge/LangChain-05122A?style=for-the-badge&logo=langchain&logoColor=22D3EE)

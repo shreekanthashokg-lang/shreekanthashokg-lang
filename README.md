@@ -36,7 +36,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 
 <br/>
 
-## 🧭 Tech Stack
+## 🧭 TECH STACK
 
 <div align="center">
 

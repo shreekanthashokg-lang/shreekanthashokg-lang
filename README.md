@@ -40,7 +40,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 
 <div align="center">
 
-**Languages & Core**
+**LANGUAGES & CORE**
 <br/>
 ![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=3B82F6)
 ![R](https://img.shields.io/badge/R-05122A?style=for-the-badge&logo=r&logoColor=22D3EE)

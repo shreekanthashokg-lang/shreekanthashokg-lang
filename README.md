@@ -61,7 +61,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 ![NumPy](https://img.shields.io/badge/NumPy-05122A?style=for-the-badge&logo=numpy&logoColor=22D3EE)
 ![MLflow](https://img.shields.io/badge/MLflow-05122A?style=for-the-badge&logo=mlflow&logoColor=A855F7)
 
-**Backend, Web & Cloud**
+**BACKEND, WEB & CLOUD**
 <br/>
 ![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=for-the-badge&logo=fastapi&logoColor=3B82F6)
 ![Flask](https://img.shields.io/badge/Flask-05122A?style=for-the-badge&logo=flask&logoColor=22D3EE)

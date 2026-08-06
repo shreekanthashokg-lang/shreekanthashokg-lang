@@ -107,7 +107,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 <br/><sub>CGPA: 10 / 10</sub>
 <br/><sub>3RD Semester · 2027 Batch</sub>
 
-**BSc**
+**BSC**
 <br/>Gulbarga University
 <br/><sub>CGPA: 8.2 / 10</sub>
 
@@ -116,7 +116,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 </td>
 <td width="40%">
 
-**Certifications**
+**CERTIFICATIONS**
 - 🏅 Cambridge CIQ — Python for DS & ML, 100/100
 - 🏅 Infosys Springboard — Data Science with Python
 - 🏅 Deloitte — Data Analytics Simulation (Forage)

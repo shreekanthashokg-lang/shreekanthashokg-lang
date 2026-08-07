@@ -147,7 +147,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 <br/>Representing India's #1-ranked entrepreneurship cell, coordinating programs independently in a fully remote capacity.
 
 
-**🏆 1st Place Winner — eMudhra Hackathon 2026**
+**🏆 1st PLACE WINNER — eMudhra Hackathon 2026**
 <br/><sub>Team Prakriti · eMudhra Campus, Bengaluru · July 2026</sub>
 <br/>Won ₹1,00,000 first prize against 104 competing teams — one of 19 shortlisted from the preliminary round, evaluated by eMudhra's engineering leadership.
 

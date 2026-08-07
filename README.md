@@ -134,7 +134,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 
 <td width="50%" valign="top">
 
-**📊 DATA Science Intern — CodSoft**
+**📊 DATA SCIENCE Intern — CodSoft**
 <br/><sub>ISO 9001:2015 Certified · Feb–Mar 2026</sub>
 <br/>Applied Python-based EDA, feature engineering, classification, and regression to real-world datasets.
 

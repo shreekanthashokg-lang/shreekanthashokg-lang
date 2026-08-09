@@ -121,7 +121,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 - 🏅 Infosys Springboard — Data Science with Python
 - 🏅 Deloitte — Data Analytics Simulation (Forage)
 - 🏅 ICAC — ML Training, Codec Technologies
-- 🏅 HP Foundation — Data Science & Analytics
+- 🏅 HP Foundation — DATA SCIENCE & Analytics
 
 </td>
 </tr>

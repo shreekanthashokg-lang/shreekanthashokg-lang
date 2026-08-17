@@ -232,7 +232,7 @@ Five data science projects completed during a virtual CodSoft internship, spanni
 
 <br/><br/>
 
-### 🐍 THE SNAKE that eats my contributions
+### 🐍 THE SNAKE THAT  EATS MY CONTRIBUTIONS
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreekanthashokg-lang/shreekanthashokg-lang/output/github-snake-cyan.svg">

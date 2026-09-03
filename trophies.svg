@@ -1,4 +1,4 @@
-<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Trophies for shreekanthashokg-lang">
+  <svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Trophies for shreekanthashokg-lang">
   <defs>
     <linearGradient id="trophyBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0a0f1f"/>
@@ -62,7 +62,7 @@
         <circle cx="80" cy="46" r="34" fill="url(#sGlow)"/>
         <text x="80" y="56" text-anchor="middle" font-size="34">👥</text>
         <text x="80" y="92" text-anchor="middle" font-size="12" fill="#94a3b8">Followers</text>
-        <text x="80" y="112" text-anchor="middle" font-size="20" font-weight="800" fill="#fde047">1.1k</text>
+        <text x="80" y="112" text-anchor="middle" font-size="20" font-weight="800" fill="#fde047">1.45k</text>
         <text x="80" y="130" text-anchor="middle" font-size="11" font-weight="700" fill="#facc15">S</text>
       </g>
 

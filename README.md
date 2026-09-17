@@ -104,7 +104,7 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Bengaluru, India**, curren
 
 **MCA — AI/ML & DATA SCIENCE SPECIALIZATIONS**
 <br/>S-VYASA Deemed to be University, Bengaluru
-<br/><sub>CGPA: 10 / 10</sub>
+<br/><sub>CGPA: 9.8 / 10</sub>
 <br/><sub>3RD Semester · 2027 Batch</sub>
 
 **BSC**

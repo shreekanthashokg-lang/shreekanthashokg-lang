@@ -38,7 +38,7 @@
         <circle cx="80" cy="46" r="30" fill="url(#aGlow)"/>
         <text x="80" y="56" text-anchor="middle" font-size="34">📦</text>
         <text x="80" y="92" text-anchor="middle" font-size="12" fill="#94a3b8">Repositories</text>
-        <text x="80" y="112" text-anchor="middle" font-size="20" font-weight="800" fill="#67e8f9">12</text>
+        <text x="80" y="112" text-anchor="middle" font-size="20" font-weight="800" fill="#67e8f9">16</text>
         <text x="80" y="130" text-anchor="middle" font-size="11" font-weight="700" fill="#22d3ee">A</text>
       </g>
 
@@ -73,8 +73,8 @@
         <rect width="160" height="142" rx="14" fill="#1a1330" stroke="#facc15" stroke-opacity="0.5" stroke-width="1.4"/>
         <circle cx="80" cy="46" r="34" fill="url(#sGlow)"/>
         <text x="80" y="56" text-anchor="middle" font-size="34">🏆</text>
-        <text x="80" y="92" text-anchor="middle" font-size="12" fill="#94a3b8">eMudhra 2026</text>
-        <text x="80" y="112" text-anchor="middle" font-size="20" font-weight="800" fill="#fde047">1st</text>
+        <text x="80" y="92" text-anchor="middle" font-size="12" fill="#94a3b8">eMudhra Hackthon 2026</text>
+        <text x="80" y="112" text-anchor="middle" font-size="20" font-weight="800" fill="#fde047">Winner</text>
         <text x="80" y="130" text-anchor="middle" font-size="11" font-weight="700" fill="#facc15">S</text>
       </g>
 
